@@ -1,8 +1,7 @@
-# Zipline Data Scientist Take Home Project
 
 ## Introduction
 
-Zipline operates the world’s only drone delivery system at national scale to send urgent medicines like blood transfusions and vaccines to those in need – no matter where they live. We’re at the forefront of a logistics revolution, designing, manufacturing, and operating our own battery powered autonomous aircraft fleet to overcome the challenges of delivering just-in-time, lifesaving medical supplies around the world.
+XCompany operates the world’s only drone delivery system at national scale to send urgent medicines like blood transfusions and vaccines to those in need – no matter where they live. We’re at the forefront of a logistics revolution, designing, manufacturing, and operating our own battery powered autonomous aircraft fleet to overcome the challenges of delivering just-in-time, lifesaving medical supplies around the world.
 
 In this example dataset taken from our distribution center in Muhanga, we serve rural hospitals in the western half of Rwanda, delivering blood transfusions used to treat conditions like malaria anemia and postpartum hemorrhaging. After an order is placed, an electromechanically actuated launcher accelerates one of our aircraft — known internally as a "Zip" — at 5 g's from 0 to 30 m/s (67 mph) in less than a second. From there, the plane autonomously navigates a pre-defined route to the delivery site, drops its package, and returns to the distribution center to recover. If you're looking for more background information on Zipline before diving into the data, you can check out these videos:
 - [Zipline - Impact in Rwanda](https://www.youtube.com/watch?v=dfNpQzivkJA) - Brief overview of our operations in Rwanda
@@ -64,5 +63,3 @@ Name | Units | Description
 ## The Project
 
 This is a relatively unstructured, independent exploratory data analysis & visualization assignment. Use your skills to discern details and find patterns in the data, and show us your process in a Jupyter notebook (or similar). Ultimately, we're looking for you to communicate actionable insights — things like corrupted or missing data points, unexplained behaviors, individual outlier launches, diurnal weather patterns, poorly performing parts, etc. — to the engineering & operations team in the form of interpretable figures and tables with a short description of your findings.
-
-Once you've completed the project, please attach your submission to an email sent to emily@flyzipline.com.

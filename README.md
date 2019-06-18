@@ -3,13 +3,7 @@
 
 XCompany operates the world’s only drone delivery system at national scale to send urgent medicines like blood transfusions and vaccines to those in need – no matter where they live. We’re at the forefront of a logistics revolution, designing, manufacturing, and operating our own battery powered autonomous aircraft fleet to overcome the challenges of delivering just-in-time, lifesaving medical supplies around the world.
 
-In this example dataset taken from our distribution center in Muhanga, we serve rural hospitals in the western half of Rwanda, delivering blood transfusions used to treat conditions like malaria anemia and postpartum hemorrhaging. After an order is placed, an electromechanically actuated launcher accelerates one of our aircraft — known internally as a "Zip" — at 5 g's from 0 to 30 m/s (67 mph) in less than a second. From there, the plane autonomously navigates a pre-defined route to the delivery site, drops its package, and returns to the distribution center to recover. If you're looking for more background information on Zipline before diving into the data, you can check out these videos:
-- [Zipline - Impact in Rwanda](https://www.youtube.com/watch?v=dfNpQzivkJA) - Brief overview of our operations in Rwanda
-- [How Rwanda Built A Drone Delivery Service](https://www.youtube.com/watch?v=jEbRVNxL44c) - In-depth study of the engineering work behind our current drone platform
-- [The Super-Fast Logistics of Delivering Blood By Drone](https://www.youtube.com/watch?v=bnoUBfLxZz0) - Outline of our delivery services in Rwanda
-- [In Rwanda, His Drones Are Saving Lives](https://www.youtube.com/watch?v=NBdB3G9Qvqs) - Profile of one of our first flight operators
-- [Zipline's World Class Drone Safety Features](https://www.youtube.com/watch?v=QTnBm3rXmss) - A short video describing how we develop safe aircraft
-
+In this example dataset taken from our distribution center in Muhanga, we serve rural hospitals in the western half of Rwanda, delivering blood transfusions used to treat conditions like malaria anemia and postpartum hemorrhaging. After an order is placed, an electromechanically actuated launcher accelerates one of our aircraft — known internally as a "Zip" — at 5 g's from 0 to 30 m/s (67 mph) in less than a second. From there, the plane autonomously navigates a pre-defined route to the delivery site, drops its package, and returns to the distribution center to recover. 
 
 A Zip is made up of three components — a battery, wing, and body. For each flight, a flight operator selects one of each component, "asembling" the Zip immediately prior to flight, as our fulfillment operators prepare the package before it's placed in the assembled Zip.
 

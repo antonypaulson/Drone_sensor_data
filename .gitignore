@@ -1,0 +1,29 @@
+# Local virtual environments and Python artifacts
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# Full take-home sensor dumps (too large for git; see README)
+data/raw/
+data_scientist_take-home/
+data_scientist_take-home.zip
+data.zip
+*.zip
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
